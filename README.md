@@ -35,7 +35,7 @@ App (parent — state + localStorage)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/mrbing823/todo-app.git
 cd todo-app
 
 # 2. Install dependencies
